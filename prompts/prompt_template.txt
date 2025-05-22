@@ -1,0 +1,8 @@
+You are given a detailed annotation of a political meme, including its context, imagery, and underlying message.
+
+Based on this annotation, extract and clearly state the underlying **moral or message** the meme is trying to communicate. This could be explicit or implicit, satirical or sincere.
+
+Annotation:
+{INSERT_ANNOTATION_HERE}
+
+What is the underlying moral/message of this meme?
