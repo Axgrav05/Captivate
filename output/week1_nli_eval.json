@@ -1,1 +1,72 @@
-
+[
+  {
+    "id": "002",
+    "original_claim": "The meme also take a positive tone toward Pat Tillman by portraying him as a war hero and his sacrifice was noble unlike Colin.",
+    "reconstructed_claims": {
+      "Gemini": "Sacrificing for one's country in war is a more honorable form of protest than kneeling during the National Anthem.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "The meme conveys the moral distinction between the sacrifices made by Pat Tillman, who joined the military to fight for his country, and Colin Kaepernick, who protested during the National Anthem, implying that Tillman's sacrifice is more honorable due to its alignment with national service."
+    },
+    "nli_results": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "007",
+    "original_claim": "The final message of the meme is the punchline: Obama made America worse when he was president.",
+    "reconstructed_claims": {
+      "Gemini": "The meme suggests that Barack Obama's presidency negatively impacted America, using humor and ridicule.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "The meme suggests that America has declined in greatness due to Barack Obama being elected as president, using humor and ridicule to convey this message."
+    },
+    "nli_results": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "014",
+    "original_claim": "Therefore, the meme suggests that these protests are lack of logic and actually indicate President Trumps success.",
+    "reconstructed_claims": {
+      "Gemini": "The meme criticizes anti-Trump protestors, suggesting they prioritize political opposition over economic prosperity and employment.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "The meme criticizes anti-Trump protestors for prioritizing impeachment over job creation and maintaining high unemployment rates."
+    },
+    "nli_results": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "021",
+    "original_claim": "The meme suggests that the coincidence is too unlikely and that the bombings were planned by the Clintons as it resulting in the loss of incriminating evidence against them.",
+    "reconstructed_claims": {
+      "Gemini": "The meme implies a conspiracy theory suggesting Hillary Clinton was involved in the Oklahoma City bombing to destroy evidence related to the Whitewater scandal.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "The meme implies that the Oklahoma City bombing was related to the Whitewater scandal involving Hillary Clinton."
+    },
+    "nli_results": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "026",
+    "original_claim": "As such, the meme's message is that the Democratic Party is hypocritical and not truly diverse or tolerant.",
+    "reconstructed_claims": {
+      "Gemini": "The Democratic Party is hypocritical for allegedly prioritizing race and sex in its VP selection while criticizing the right for racism and sexism.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "The main claim of the meme is that the Democratic Party's selection of the Vice President based on race and sex demonstrates hypocrisy in their supposed commitment to equality and diversity."
+    },
+    "nli_results": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "id": "001",
+    "original_claim": "The meme implies that the Clinton's framed Epstein's suicide in order to get away with being associated with him and his crimes.",
+    "reconstructed_claims": {
+      "Gemini": "The meme suggests the Clintons may have been involved in Jeffrey Epstein's death, insinuating they silenced him due to his knowledge of their activities.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "002",
+    "original_claim": "This gives the meme's overall message: Biden is senile and says nonsensical things.",
+    "reconstructed_claims": {
+      "Gemini": "Joe Biden is prone to making nonsensical and embarrassing public statements, likely due to his age.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "003",
+    "original_claim": "The meme uses sarcasm to show that Nanci Pelosi has a negative reaction to reasonable demands such as proving citizenship to vote, therefore the meme demeans her credibility.",
+    "reconstructed_claims": {
+      "Gemini": "Reasonable voting requirements are being sarcastically portrayed as unreasonable due to political opposition.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "004",
+    "original_claim": "This text attacks communism and its supporters for perpetuating the death and destruction present in past communist societies.\n\nThus, the meme attacks American institutions for preaching communism despite its dangers.",
+    "reconstructed_claims": {
+      "Gemini": "American institutions hypocritically praise communism despite its deadly history.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "005",
+    "original_claim": "This in turn will result in citizens killing criminals, resulting in unnecessary death.\n\nTherefore, the meme attacks the initiative to defund the police by saying that it will cause citizens to kill people for crimes themselves.",
+    "reconstructed_claims": {
+      "Gemini": "Defunding the police will lead to vigilante justice and disproportionate punishment.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "006",
+    "original_claim": "However, the meme also attacks Obama by implying that she is not a woman because Biden will not grope her.\n\nTherefore, the meme mocks Joe Biden for being a pedophile and mocks Michelle Obama for being a man.",
+    "reconstructed_claims": {
+      "Gemini": "The meme uses harmful stereotypes to attack Joe Biden and Michelle Obama.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "007",
+    "original_claim": "Banning all postage stamps would obviously be impractical because the country would be unable to run, but the meme implies that the Democrats would do it anyway.\n\nThus, the meme mocks Democrats for being willing to do anything to oppose Trump.",
+    "reconstructed_claims": {
+      "Gemini": "Blind opposition to a figure can lead to illogical and self-defeating actions.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "008",
+    "original_claim": "By referencing that, the meme is accusing Kamala of following suit in Clinton's footsteps by planning on killing Biden so that she can be president.\n\nTherefore, the meme mocks Joe Biden for being senile and accuses Kamala Harris of wanting to kill him.",
+    "reconstructed_claims": {
+      "Gemini": "The meme uses ageist tropes and conspiracy theories to attack Joe Biden and Kamala Harris.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "009",
+    "original_claim": "The meme thus attacks the lack of attention to this incident as being race-driven; the incident did not get any coverage because the victim was white, not black, illustrating a sharp contrast to the top-side visual of George Floyd.\n\nThus, the meme accuses the media of selectively portraying incidents of murder based on race.",
+    "reconstructed_claims": {
+      "Gemini": "The media disproportionately covers murders when the perpetrator is white and the victim is Black, compared to when the perpetrator is Black and the victim is not.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "010",
+    "original_claim": "The implication is obvious: that they are ignoring it because it does not advance the agenda that black people are always victims of white violence, but not vice versa.\n\nThus, the meme accuses the media and politicians of being blind to tragedies that do not align with their agenda.",
+    "reconstructed_claims": {
+      "Gemini": "The media and politicians prioritize certain tragedies over others based on their agenda, leading to injustice and unequal attention.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "011",
+    "original_claim": "Hinnant's murder went largely uncovered by national media, and the meme calls for this injustice to be rectified through awareness of Hinnant's plight.\n\nThus, the meme calls for justice in the murder of Cannon Hinnant.",
+    "reconstructed_claims": {
+      "Gemini": "The meme appropriates Black Lives Matter rhetoric to advocate for justice in the murder of a white child by a Black man, emphasizing the racial aspect of the crime.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "012",
+    "original_claim": "In other words, the meme's overall message is that Kamala Harris performed sexual favors to cheat her way up through her political career.",
+    "reconstructed_claims": {
+      "Gemini": "The meme uses humor and stereotypes to suggest Kamala Harris advanced in politics through sexual favors rather than merit.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "013",
+    "original_claim": "In other words, strictly forbidding offensiveness gives up free thought in favor of protecting feelings.\n\nThe phrases \"give up\" and \"only flag\" give a dire and serious tone, as the surrender of free thought is a terrifying concept.\n\nMoreover, since the meme wants to avoid a situation where the \"only flag\" that can be flown is the white flag of surrender, its message must be that this aggression against offense stifles that free thinking.",
+    "reconstructed_claims": {
+      "Gemini": "Political correctness demands such extreme sensitivity that it will ultimately stifle free expression and lead to societal surrender.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "014",
+    "original_claim": "Thus, the final, mocking message is that Biden is senile, and Harris is lying about her race.",
+    "reconstructed_claims": {
+      "Gemini": "The meme uses humor to mock Democratic politicians, accusing them of inappropriate behavior and dishonesty regarding race and age.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "015",
+    "original_claim": "This further highlights the accusation against Harris, which is the overall message of the meme: Kamala Harris lied about her race to curry favor with voters.",
+    "reconstructed_claims": {
+      "Gemini": "The meme satirizes the claim that Kamala Harris misrepresented her racial identity to gain political advantage.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "016",
+    "original_claim": "The meme claims that Kamala is exaggerating her heritage to appeal to a bigger demographic and win votes.",
+    "reconstructed_claims": {
+      "Gemini": "The meme uses sarcasm and disputed claims about Kamala Harris's racial identity to undermine her political standing.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "017",
+    "original_claim": "This meme exaggerates and further portrays the narrative that Joe Biden is too old to perform his duties as president and would therefore be a terrible president.",
+    "reconstructed_claims": {
+      "Gemini": "The meme suggests Joe Biden's age and potential cognitive decline make him unfit for the presidency.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "018",
+    "original_claim": "By showing that Joe Biden forgot who he chose for his vice president, this meme exaggerates and further portrays the narrative that Joe Biden is too old to perform his duties as president and would therefore be a terrible president.",
+    "reconstructed_claims": {
+      "Gemini": "Joe Biden's mental acuity is questionable due to his age, suggesting he might not be fit for the presidency.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "019",
+    "original_claim": "The meme asserts that the image with Trump and Epstein is fake and also claims that Facebook is a non centrist media and heavily portrays Trump and the republican party poorly.",
+    "reconstructed_claims": {
+      "Gemini": "Social media platforms exhibit bias by selectively allowing false information that incriminates political figures while censoring legitimate content.",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "020",
+    "original_claim": "By showing that going a day without being confused is a major milestone, this meme exaggerates and further portrays the narrative that Joe Biden is too old to perform his duties as president and would therefore be a terrible president.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "021",
+    "original_claim": "The meme mocks the democrats by exaggerating the narrative that men are more feminine and consistently disrespect the country and it's values by burning the flag.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "022",
+    "original_claim": "The meme highlights the hypocrisy in the BLM motto by asserting that they actually promote racism by stating that only Black lives matter, therefore being racist and hypocritical to their own cause.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "023",
+    "original_claim": "Thus, the meme not only makes fun of Hillary Clinton but also accuses Bill Clinton of pedophilia.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "024",
+    "original_claim": "This tone can be used to arrive at the meme's overall message: plexiglass does not prevent the spread of COVID-19.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "025",
+    "original_claim": "Since he is similarly situated with Oprah, and she seems to associate with sexual predators, Biden must also be a predator.\n\nThus, the meme's message poses two accusations: Oprah Winfrey associates with sexual predators, and Biden is a sexual predator.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "026",
+    "original_claim": "Thus, the meme is mockingly equating Biden's political career to feces, which adds a slight humorous connotation to the message.\n\nFeces here is used as a euphemism for worthlessness, so the overall message is that Biden's political career, or \"lifetime accomplishments,\" are worthless.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "027",
+    "original_claim": "The meme echoes this as its message: Fauci provides bad advice on COVID-19 prevention.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "028",
+    "original_claim": "Thus, such an occurrence would be newsworthy.\n\nThis sarcasm and humor convey the mocking message: Biden is senile and mentally incompetent.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "029",
+    "original_claim": "As such, the captions are a sarcastic and mildly humorous portrayal of Gates as a blatantly evil person.\n\nBy assuming that Gates is evil and associated with the devil, the meme's overall message is an accusation against Gates, namely, that he has implanted microchips within his patented vaccines to harm people.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "030",
+    "original_claim": "Thus, Tom Hanks is likely featured in the panels because he is falls under the list of celebrities engaged in such trafficking.\n\nWith the negativity around these individuals pervading the tone of the meme, and the urgency described in the caption (\"tick tock\") to notice the pattern of evil people surrounding Obama, the meme makes an allegation with its message: Obama honors bad people, so he must be a bad person.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 14\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "031",
+    "original_claim": "Herein lies the meme's message, a serious-toned allegation: Bill Clinton has been to Epstein's Island, presumably to engage in horrendous behavior similar to Jeffrey Epstein.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 14\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "032",
+    "original_claim": "This creates a sardonic humor that pushes the meme's message: Justin Trudeau is an evil communist.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 13\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "033",
+    "original_claim": "The meme indicates that although meteorology is inaccurate Fauci's a lot more inaccurate and still keeping his job.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 12\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "034",
+    "original_claim": "The meme asserts that since it was allowed to go shopping during the black Friday, people should be allowed to vote in person which was perceived as a more safer method of voting, therefore the meme creates a sense of paradox as the government doesn't value voting the same as shopping.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 10\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "035",
+    "original_claim": "the meme mocks democrats who promote masks by asserting that they promote COVID restrictions only to support their own agenda.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 10\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "036",
+    "original_claim": "The meme mocks BLM by indicating that there are white people part of the protests, protesting that white people are bad, therefore being racist and sending a hypocritical message.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 9\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "037",
+    "original_claim": "The meme asserts that Fauci is a hypcrite for saying that BLM protests do not spread covid while any other gather is not allowed.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 8\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "038",
+    "original_claim": "The meme asserts that since Liberal dying because of not taking Hydroxychloroquine and their deaths just mean natural selection, which refers to survival of the fittest, implies that liberals are not the fittest and are weak.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 7\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "039",
+    "original_claim": "The meme asserts that Big pharma companies have spread misinformation to destroy the credibility of other options of curing COVID in order to draw more customers to their solutions.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 6\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "040",
+    "original_claim": "This is to make fun of Clinton, portraying as someone too stupid to realize that she has been caught in the act of murder.\n\nThe joking nature creates a humorous, mocking overtone for the dark accusation: Hillary Clinton murders people who could politically compromise her.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 5\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "041",
+    "original_claim": "This leads to the meme's critical overall opinion, that the California protests are not peaceful, but rather violent.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 4\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "042",
+    "original_claim": "Thus, the sarcastic nature of the introductory caption is overshadowed by the outrageous connotations that condemn the Democrat party for its behavior, resulting in a scathing message: the Democrats destroyed Portland through their protests.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 3\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "043",
+    "original_claim": "The captions label them \"the creepiest circus clowns ever.\" By calling them \"circus clowns,\" the meme is implying that these two married couples act in a ridiculous manner that is unbecoming of their prestigious positions as city mayors.\n\nThus, the meme has a straightforward and aggressive message: Erics Adams, Lori Lightfoot and their spouses are creepy people who behave innappropriately.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 2\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "044",
+    "original_claim": "This overall creates the humorous message that the government's COVID policies are absurd and condone immoral behavior.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 1\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "045",
+    "original_claim": "Since anti-Trump people are generally left-leaning, these people are meant to equate leftists and opposition to Trump.\n\nThe meme expresses a hypocrisy in that these people who claimed \"Trump would destroy America\" are now themselves burning, or rather, \"destroying America.\" The repetition of the phrase \"destroy America,\" separated by the trailing pause which is followed by a punchline, creates a sardonic humor that overlays an expressed disappointment in anti-Trump leftist behavior.\n\nThus, the meme's message is an attack on anti-Trump leftists, accusing them of hypocrisy and condemning their violent protests.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 59\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "046",
+    "original_claim": "His ugly appearance also insults AOC's appearance as well.\n\nThus, this meme's message consists of two main points: (1) AOC is evil, and (2) she is easily offended.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "047",
+    "original_claim": "This, combining with the exaggerated portrayal of the woman, leads to the humorous overall message: liberals are easily-offended hypocrites.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 56\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  },
+  {
+    "id": "048",
+    "original_claim": "Gun control is generally supported because people believe that removing deadly weapons would reduce violence and crime, though the meme argues that it would cause the opposite, increasing crime.\n\nThe sense of direct urgency in endangering the depicted woman's life transfers to the meme's final message and condemnation: gun control endangers people.",
+    "reconstructed_claims": {
+      "Gemini": "[Gemini Error] 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
+      "Mistral": "[Mistral Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1",
+      "LLaMA": "[LLaMA Error] 402 Client Error: Payment Required for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    },
+    "comparisons": {
+      "Gemini": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "Mistral": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "LLaMA": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions",
+      "OpenRouter": "[OpenRouter Error] 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions"
+    }
+  }
+]
